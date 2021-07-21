@@ -1,6 +1,4 @@
 # Soundarya Baskar
-# CS 2340.0W1
-# Bitmap Project!
 
 # earth day theme!!!!
 # show 2 graphs based on user input from the keyboard...
